@@ -1,7 +1,20 @@
 body{
-    background:rgba(49, 39, 39, 0.781);
+    background:rgba(22, 19, 19, 0.781);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+}
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color:rgb(97, 93, 93)   
+    
+}
+
+.assignment img {
+    width: 200px;
+    padding: 10px;
 }
 
 h1{
